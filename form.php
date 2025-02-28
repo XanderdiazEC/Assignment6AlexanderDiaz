@@ -61,6 +61,6 @@
         </div>
         <button type="submit">Submit</button>
     </form>
-    <p>Note: You can also provide values directly via URL parameters, e.g., process.php?a=10&b=20&c=30&d=40&e=50</p>
+    
 </body>
 </html>
